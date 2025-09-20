@@ -1,2 +1,4 @@
 # devops-task
-Starting
+
+start
+
